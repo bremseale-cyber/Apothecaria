@@ -1,0 +1,9 @@
+{
+  "remoteURL": "https://github.com/bremseale-cyber/Apothecaria.git",
+  "gitLocation": "",
+  "syncinterval": 1,
+  "isSyncOnLoad": true,
+  "checkStatusOnLoad": true,
+  "noticeLevel": "ALL",
+  "showSyncSuccessNotice": true
+}
