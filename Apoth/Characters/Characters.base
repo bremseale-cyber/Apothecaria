@@ -1,0 +1,11 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.folder.contains("Characters")
+    order:
+      - file.name
+      - Location
+      - Type of Character
+      - Ailments

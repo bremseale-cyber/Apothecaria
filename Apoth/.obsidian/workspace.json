@@ -1,0 +1,276 @@
+{
+  "main": {
+    "id": "c6117284cc83f58f",
+    "type": "split",
+    "children": [
+      {
+        "id": "1ac57dd14c9b1c47",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "13d6dfba76927683",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ingredients/Forest And Bog Reagents/Nightcap.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Nightcap"
+            }
+          },
+          {
+            "id": "b0cc217841bc26de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ingredients/Forest And Bog Reagents/Unicorn Powder.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Unicorn Powder"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "57f06103ba7c0ad0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f4c7f6910a7b1e43",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Village/Eilok.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Eilok"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "88a17c88fbd9f66b",
+    "type": "split",
+    "children": [
+      {
+        "id": "c0df5893456050e8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6842a7881499d502",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "64eb18c570adee5c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ec98ec01f4353e41",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "94a0ad0729ea3332",
+    "type": "split",
+    "children": [
+      {
+        "id": "81368a65848d15eb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "edeaa2d1fa1d13ea",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "44361eea2d4ee067",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "5160fe93e3b66546",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "30b12eb6a07ae9eb",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "f06ee460c15eb1e4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "1a79082e53b53d91",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {},
+              "icon": "lucide-info",
+              "title": "File properties"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obisidian-note-linker:Note Linker": false,
+      "obsidian42-brat:BRAT": false
+    }
+  },
+  "active": "6842a7881499d502",
+  "lastOpenFiles": [
+    "Ingredients/Forest And Bog Reagents/Nightcap.md",
+    "Ingredients/Forest And Bog Reagents/Unicorn Powder.md",
+    "Ingredients/Forest And Bog Reagents",
+    "Ingredients/Grove Reagents/Rat Spit.md",
+    "Ingredients/Grove Reagents/Amethyst Antlers.md",
+    "Ingredients/Grove Reagents/Whispers of a Cat.md",
+    "Ingredients/Grove Reagents/A Snake's Promise.md",
+    "Ingredients/Grove Reagents/Hair of Boar.md",
+    "Ingredients/Grove Reagents/Coffee Cap.md",
+    "Ingredients/Grove Reagents/Glittersnow.md",
+    "Ingredients/Grove Reagents/Snowberries.md",
+    "Ingredients/Grove Reagents",
+    "Ingredients/Grove Reagents/Princess Toad.md",
+    "Ingredients/Grove Reagents/Surgeon Sap.md",
+    "Ingredients/Grove Reagents/Wild Rose.md",
+    "Ingredients/Grove Reagents/Foot Fungus.md",
+    "Ingredients/Grove Reagents/Fairy Dust.md",
+    "Ingredients/Grove Reagents/Shieldcap.md",
+    "Ingredients/Grove Reagents/Scramble Bramble.md",
+    "Journal/Spring 1 Gathering 1.md",
+    "Journal/Spring 1.md",
+    "Ingredients/Storm Reagents/Powerful Winds.md",
+    "Ingredients/Storm Reagents/Black Cloud.md",
+    "Ingredients/Storm Reagents/A Storm's Applause.md",
+    "Ingredients/Storm Reagents/Raw Lightning.md",
+    "Ingredients/Storm Reagents/Hover Caps.md",
+    "Ingredients/Storm Reagents/Storm Horn.md",
+    "Ingredients/Winter Reagents/Marshmallow.md",
+    "Ingredients/Storm Reagents",
+    "Ingredients/Winter Reagents",
+    "Ingredients/Autumn Reagents",
+    "Ingredients/Summer Reagents",
+    "Ingredients/Spring Reagents",
+    "Ingredients",
+    "Untitled.base",
+    "itchy.png",
+    "Characters/Characters.base",
+    "Untitled.canvas"
+  ]
+}

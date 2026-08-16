@@ -1,0 +1,26 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "Ailments": "multitext",
+    "Have Had It": "multitext",
+    "Friends": "multitext",
+    "Found At": "multitext",
+    "Buffs": "multitext",
+    "Tools": "multitext",
+    "Companions": "multitext",
+    "Silver": "number",
+    "Journal Entries": "multitext",
+    "Location": "multitext",
+    "Sweet": "checkbox",
+    "Poison": "checkbox",
+    "Winter Modifier": "text",
+    "Spring Modifier": "text",
+    "Summer Modifier": "text",
+    "Storm Modifier": "text",
+    "Autumn Modifier": "text",
+    "FP Per Location": "multitext",
+    "Processed": "multitext"
+  }
+}

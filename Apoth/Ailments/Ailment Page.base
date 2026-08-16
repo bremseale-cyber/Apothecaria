@@ -1,0 +1,11 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.folder == "Ailments"
+    order:
+      - file.name
+      - file.tags
+      - Expansion
+      - Have Had It
